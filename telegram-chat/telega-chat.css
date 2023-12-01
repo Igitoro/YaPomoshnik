@@ -2,6 +2,11 @@ input{
     border: none;
 }
 
+.chat__body__item__user__icon cards__theme{
+    max-width: 54px;
+    max-height: 54px;
+}
+
 #button_chat {
     position: fixed;
     z-index: 1001;

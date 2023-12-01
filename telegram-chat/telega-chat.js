@@ -43,7 +43,7 @@ function getRandomInt(max) {
   const manager = 'Александр'
   
   let tpl = `<div class="chat__wrap">
-  <div class="chat__title">Онлайн-чат
+  <div class="chat__title">Чат с менеджером
     <div class="btm__close chat__close">&times;</div>
   </div>
   <div class="chat__body">
